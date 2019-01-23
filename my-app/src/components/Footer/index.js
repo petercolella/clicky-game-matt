@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="bottom">
-        Clicky Game! <img alt="react" src="assets/images/react.svg" />
+        It's Clickin' GREAT!
       </div>
     </footer>
   );

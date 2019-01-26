@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/assets/images/Bart.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
     "clicked": false
   },
   {

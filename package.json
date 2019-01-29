@@ -1,7 +1,7 @@
 {
   "name": "ClickyGame",
   "version": "0.1.0",
-  "homepage": "https://bullgator92.github.io/ClickyGame/",
+  "homepage": "https://petercolella.github.io/clicky-game-matt/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",

@@ -1,42 +1,42 @@
 [
   {
     "id": 1,
-    "image": "/assets/images/Bart.png",
+    "image": "./assets/images/Bart.png",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/assets/images/Burns.jpg",
+    "image": "./assets/images/Burns.jpg",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/assets/images/Moe.jpg",
+    "image": "./assets/images/Moe.jpg",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/assets/images/Chief.jpg",
+    "image": "./assets/images/Chief.jpg",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "/assets/images/DuffMan.jpg",
+    "image": "./assets/images/DuffMan.jpg",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "/assets/images/fatTony.jpg",
+    "image": "./assets/images/fatTony.jpg",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "/assets/images/Ned.jpg",
+    "image": "./assets/images/Ned.jpg",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/assets/images/Krusty.jpg",
+    "image": "./assets/images/Krusty.jpg",
     "clicked": false
   }
 ]
